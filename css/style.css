@@ -24,7 +24,7 @@ h1{
     margin-bottom: 100px;
 }
 
-#container .box{
+#container #box{
     width: 90px;
     height: 90px;
     margin: 5px;
@@ -32,4 +32,12 @@ h1{
     line-height: 90px;
     color: white;
     background-color: #444;
+}
+
+.bg-color{
+    background-color: red;
+}
+
+.green{
+    background-color: darkgreen;
 }
